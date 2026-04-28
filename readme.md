@@ -11,4 +11,5 @@ Stack:
 2) Vite 5 - builder
 3) CSS - custom styles (without UI libraries)
 4) Space Mono - font (Google Fonts)
+
 by kotsovvv! nice to meet you
