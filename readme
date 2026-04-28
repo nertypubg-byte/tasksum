@@ -1,0 +1,14 @@
+Features: Add tasks with a name, category, priority, and hours.
+Statistics: Completed/Total/Hours/Progress Percentage
+Points: Points are calculated using the formula priority * hours
+Filtering: All/Active/Completed
+Delete tasks
+Priority chips with mini-statistics
+Add tasks by pressing Enter
+
+Stack:
+1) React 18 - UI
+2) Vite 5 - builder
+3) CSS - custom styles (without UI libraries)
+4) Space Mono - font (Google Fonts)
+by kotsovvv! nice to meet you
